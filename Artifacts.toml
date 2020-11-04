@@ -1,76 +1,76 @@
 [[duneistl_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0f05696b11fe69ee551096ddb28989ec79c0fc8b"
+git-tree-sha1 = "23e5084c5d4c43bd0cd7df408d9f4d99fe5560e0"
 libc = "glibc"
 os = "linux"
 
     [[duneistl_julia.download]]
-    sha256 = "caa45e9757d7529e0a099a6c08bd1a8f0928d4ed429cddf8abdbcecea6025b95"
-    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.2.1+0/duneistl_julia.v0.2.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "d85258513505274bcd87b2c5c0799d65e1b0827c8dbccf571691f9e2c8a0ebae"
+    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.3.1+0/duneistl_julia.v0.3.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[duneistl_julia]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03b446822c218145d74a799288429d86b4ccd938"
+git-tree-sha1 = "15aae4ec513742ca2ef6f3741b96080745a349b6"
 libc = "glibc"
 os = "linux"
 
     [[duneistl_julia.download]]
-    sha256 = "e7058eab53da082e2036f592997b69f91fbfe85b86312d9e9c235a86bfbf80a8"
-    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.2.1+0/duneistl_julia.v0.2.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "b828cc20791fe49463f938afd3a07e4ac9cbf0763191a8fa8b30dcf212af1358"
+    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.3.1+0/duneistl_julia.v0.3.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[duneistl_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "efba9363cc5354d5d03f2f29a77dfa64b5d4fe2d"
+git-tree-sha1 = "a640a9e15413d835d588b228ae3bb51cda8cdbde"
 libc = "glibc"
 os = "linux"
 
     [[duneistl_julia.download]]
-    sha256 = "dc53a928cd27c7356ec9bd0766edf914cda8e0fe53ef941503474dc1ba5a952f"
-    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.2.1+0/duneistl_julia.v0.2.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "8027a8860e3cf0a240028452193e46d7f515607d8169f7bc3fc0a93c22f69093"
+    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.3.1+0/duneistl_julia.v0.3.1.i686-linux-gnu-cxx11.tar.gz"
 [[duneistl_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6211c8d80bd1cac5305ed64bbec048e9fc724f0"
+git-tree-sha1 = "8114565eee65392044db007f5353d47b7d4c2efa"
 os = "windows"
 
     [[duneistl_julia.download]]
-    sha256 = "4d78b6b77b6650c133d6778270acd929d2fd6d69ee776bd802dbd11f3f6d5f14"
-    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.2.1+0/duneistl_julia.v0.2.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "19aaa4b27436748f463ab83c483b548231b97913f64854a8176c662d6e98a0dc"
+    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.3.1+0/duneistl_julia.v0.3.1.i686-w64-mingw32-cxx11.tar.gz"
 [[duneistl_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3750d35f3c3a2d0adac7fda69c5d277c93da539e"
+git-tree-sha1 = "25b61085dbd518806aa570ace341cde9459ae444"
 os = "macos"
 
     [[duneistl_julia.download]]
-    sha256 = "5cc624b53c66a0af27ccf5e021f758ab7bccdfcbc07ed0bf6d0125c06af9c886"
-    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.2.1+0/duneistl_julia.v0.2.1.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "999be41b80ab3e64b906d7d60d0707ceb84c4dfa6adaa881375646c2a1668898"
+    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.3.1+0/duneistl_julia.v0.3.1.x86_64-apple-darwin14-cxx11.tar.gz"
 [[duneistl_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "532ff1ba86fd6dbd2e7dd27185e6949f4e2ad61f"
+git-tree-sha1 = "6e674d36f1d089673045502f37566b81528ba2bd"
 libc = "glibc"
 os = "linux"
 
     [[duneistl_julia.download]]
-    sha256 = "8a87e5989539ce5058d3727bb2e5c47f49fc10a684c5bf9f3336cecc24392ccc"
-    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.2.1+0/duneistl_julia.v0.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a3fb2f34b2a9c48b76e69949b60260ec7d54140c6968baa1c15acb3d4fe7f0e2"
+    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.3.1+0/duneistl_julia.v0.3.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[duneistl_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "811d3dc8a129f450d1fa9f3793d1da81fac8809e"
+git-tree-sha1 = "b1f0200cb8e225c9b878d61a3b4340ee9716c7c3"
 os = "freebsd"
 
     [[duneistl_julia.download]]
-    sha256 = "dc532ae4ba4c08488fafffab8116a7730b1d2ab7c853c13cf663f1b9484ab067"
-    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.2.1+0/duneistl_julia.v0.2.1.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+    sha256 = "2a8549091fca83de1862238463c3eafbe57c9e66ef7a89f1ea42d574d1da7529"
+    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.3.1+0/duneistl_julia.v0.3.1.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
 [[duneistl_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "83b799a6051cdd085813a0b44681772954db0eeb"
+git-tree-sha1 = "99a9962b5bc749be2cb66efd8656841e7925fd3b"
 os = "windows"
 
     [[duneistl_julia.download]]
-    sha256 = "151db2694933be306c28dbd3f513d87ed8f5796d90ebdc7302dbd88290d93fda"
-    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.2.1+0/duneistl_julia.v0.2.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "dfbb383eef48125a01684dcd7d6cd53ea7073782136a1ae6b666385f4f22be26"
+    url = "https://github.com/DeanLym/libduneistlsolver_jll.jl/releases/download/duneistl_julia-v0.3.1+0/duneistl_julia.v0.3.1.x86_64-w64-mingw32-cxx11.tar.gz"
